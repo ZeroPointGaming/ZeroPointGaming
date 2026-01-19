@@ -23,13 +23,16 @@ Most of my professional work lives in private repositories, but this profile sho
 
 ### Front End
 - Angular
+- React
 - TypeScript
 - JavaScript
+- Jquery
 - HTML, CSS, SCSS
 - RxJS
 
 ### Back End
 - PHP (7.4, 8+)
+- C#, Visual Basic / .NET 6+
 - SlimPHP 4
 - CodeIgniter 3
 - RESTful API design
@@ -37,6 +40,7 @@ Most of my professional work lives in private repositories, but this profile sho
 
 ### Databases
 - MySQL
+- MariaDB / Phpmyadmin
 - PostgreSQL
 - SQL based data modeling and optimization
 
@@ -46,9 +50,12 @@ Most of my professional work lives in private repositories, but this profile sho
 - Bash scripting
 - Git (GitHub and Bitbucket)
 - VS Code
+- Visual Studio IDE 2016+
 
 ### Additional Tools
 - GitHub Copilot
+- Sourcography AMP
+- RVC (Voice model training)
 - LLM assisted workflows (ChatGPT, Gemini, Claude)
 
 ---
@@ -86,3 +93,4 @@ GitHub: https://github.com/zeropointgaming
 ---
 
 Thanks for stopping by.
+
