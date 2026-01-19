@@ -11,6 +11,7 @@ Most of my professional work lives in private repositories, but this profile sho
 
 - Full stack web application development
 - Angular (16+) with RxJS and TypeScript
+- C# Software Development with WinForms/Xamarin UI
 - PHP backend development with RESTful APIs
 - SlimPHP 4 and CodeIgniter
 - SQL driven application design
@@ -93,4 +94,5 @@ GitHub: https://github.com/zeropointgaming
 ---
 
 Thanks for stopping by.
+
 
