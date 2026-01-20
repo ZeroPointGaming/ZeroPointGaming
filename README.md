@@ -17,6 +17,7 @@ Most of my professional work lives in private repositories, but this profile sho
 - SQL driven application design
 - Linux based development and deployment environments
 - Security conscious and maintainable system design
+- e-Commerce
 
 ---
 
@@ -94,5 +95,6 @@ GitHub: https://github.com/zeropointgaming
 ---
 
 Thanks for stopping by.
+
 
 
