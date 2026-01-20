@@ -53,6 +53,7 @@ Most of my professional work lives in private repositories, but this profile sho
 - Git (GitHub and Bitbucket)
 - VS Code
 - Visual Studio IDE 2016+
+- Wordpress
 
 ### Additional Tools
 - GitHub Copilot
@@ -95,6 +96,7 @@ GitHub: https://github.com/zeropointgaming
 ---
 
 Thanks for stopping by.
+
 
 
 
