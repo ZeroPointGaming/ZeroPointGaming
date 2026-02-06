@@ -18,6 +18,8 @@ Most of my professional work lives in private repositories, but this profile sho
 - Linux based development and deployment environments
 - Security conscious and maintainable system design
 - e-Commerce
+- Application Penetration Testing
+- System Administration (Linxu Focused)
 
 ---
 
@@ -96,6 +98,7 @@ GitHub: https://github.com/zeropointgaming
 ---
 
 Thanks for stopping by.
+
 
 
 
