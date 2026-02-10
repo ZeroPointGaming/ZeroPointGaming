@@ -20,6 +20,7 @@ Most of my professional work lives in private repositories, but this profile sho
 - e-Commerce
 - Application Penetration Testing
 - System Administration (Linxu Focused)
+- Cyber Security Awareness
 
 ---
 
@@ -98,6 +99,7 @@ GitHub: https://github.com/zeropointgaming
 ---
 
 Thanks for stopping by.
+
 
 
 
