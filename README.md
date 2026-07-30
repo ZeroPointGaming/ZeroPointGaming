@@ -68,9 +68,10 @@ Most of my professional work lives in private repositories, but this profile sho
 
 ## Professional Experience Overview
 
-I currently work as a Senior Full Stack Developer at Elyk Innovation, where I lead and contribute to large scale web applications in the healthcare and medical services space.
+I currently work as a Senior Full Stack Developer for myself, where I lead and contribute to large scale web applications in the healthcare and medical services space contacting for former employers and private clients.
 
 Recent work includes:
+- Election website infrastructure management and optimization to reduce load times by 40% and load testing costs by 80% and server resource usage by 95%.
 - Leading development of a medical wound tracking and treatment platform using Angular, RxJS, and a SlimPHP 4 RESTful API backend
 - Serving as a senior contributor on a medical special education services platform built on the same architecture
 - Coordinating development efforts across junior developers
